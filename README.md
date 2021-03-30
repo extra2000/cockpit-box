@@ -19,7 +19,7 @@ $ cd cockpit-box
 
 Copy vagrant file from `vagrant/examples/` and then create the vagrant box (you can change to `--provider=libvirt` if you want to use Libvirt provider):
 ```
-$ cp -v vagrant/examples/Vagrantfile.cockpit-box.opensuse-tumbleweed.x86_64.example vagrant/Vagrantfile.cockpit-box
+$ cp -v vagrant/examples/Vagrantfile.cockpit-box.fedora-33.x86_64.example vagrant/Vagrantfile.cockpit-box
 $ vagrant up --provider=virtualbox
 ```
 
