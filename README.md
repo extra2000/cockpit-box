@@ -27,3 +27,12 @@ Provision the vagrant box which will automatically install Cockpit with dashboar
 ```
 $ vagrant ssh cockpit-box -- sudo salt-call state.highstate
 ```
+
+
+## OpenSUSE issues
+
+To change from `wicked` to `NetworkManager`, execute the following command and then `reboot`:
+```
+$ sudo systemctl disable wickedd
+$ sudo systemctl enable NetworkManager
+```
