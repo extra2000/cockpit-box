@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.1.0](https://github.com/extra2000/cockpit-box/compare/v1.0.0...v1.1.0) (2021-03-30)
+
+
+### Features
+
+* **submodule:** Update `cockpit-formula` to [v1.1.0](https://github.com/extra2000/cockpit-formula/releases/tag/v1.1.0) ([9cd0013](https://github.com/extra2000/cockpit-box/commit/9cd0013d1f760ff1679d63ba40df28e296222485))
+
+
+### Fixes
+
+* **pillar/cockpit:** Disable `dashboard` and add `machines` option ([2666d81](https://github.com/extra2000/cockpit-box/commit/2666d8122c44e0a207bc863fbc6573958a8065c1))
+
+
+### Documentations
+
+* **README:** Add instructions for OpenSUSE to change `wickedd` to `NetworkManager` ([4a57a54](https://github.com/extra2000/cockpit-box/commit/4a57a540ce9540cddacde4287b89b8253ae8fb3e))
+* **README:** Change default Vagrant from OpenSUSE Tumbleweed to Fedora ([357379e](https://github.com/extra2000/cockpit-box/commit/357379e8fd468733b162bcf180699f4f8f96ab98))
+
 ## 1.0.0 (2021-01-09)
 
 
