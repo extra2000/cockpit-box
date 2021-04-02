@@ -39,7 +39,7 @@ Vagrant.configure("2") do |config|
       v.cpu_fallback = "allow"
       v.graphics_type = "vnc"
       v.kvm_hidden = "false"
-      v.machine_type = "pc-i440fx-2.11"
+      v.machine_type = "pc-i440fx-4.2"
       v.machine_arch = "x86_64"
       v.autostart = false
 
