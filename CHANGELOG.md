@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/extra2000/cockpit-box/compare/v1.1.0...v1.2.0) (2021-04-02)
+
+
+### Features
+
+* **vagrant:** Upgrade `machine_type` from `pc-i440fx-4.2` to `pc-i440fx-2.11` ([a2d08b0](https://github.com/extra2000/cockpit-box/commit/a2d08b0b4a941557049c133d3965e654052a0d83))
+
+
+### Continuous Integrations
+
+* **AppVeyor:** Upgrade from Ubuntu 18.04 to Ubuntu 20.04 ([9ff328c](https://github.com/extra2000/cockpit-box/commit/9ff328c1083c1e14e6ccd30a8a48fbbec87d760b))
+* **AppVeyor:** Upgrade Vagrant from `2.2.9` to `2.2.14` ([09ca2af](https://github.com/extra2000/cockpit-box/commit/09ca2af5d6100a7f73024ddb7b84e05fc796a51d))
+
 ## [1.1.0](https://github.com/extra2000/cockpit-box/compare/v1.0.0...v1.1.0) (2021-03-30)
 
 
